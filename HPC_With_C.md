@@ -1,5 +1,5 @@
-**HPC With C++** <p>
-- C++ uses [OpenMp](https://www.openmp.org/) (API) that support multi-platform shared memory multiprocessing programming on most platform including HPC.
+**HPC With C** <p>
+- C++ and C uses [OpenMp](https://www.openmp.org/) (API) that support multi-platform shared memory multiprocessing programming on most platform including HPC.
 - We are going to get information about how parallel programming is achieved in C++.
 </pr>
 
