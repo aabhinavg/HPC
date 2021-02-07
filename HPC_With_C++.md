@@ -40,7 +40,7 @@
   </li>
   <li><strong>Compile and Run or Build</strong>:<br />
   <b>Build:</b></p>
-  <pre>gcc -o parallel_world -fopenmp hello.c</pre>
+  <pre>gcc -o parallel_world -fopenmp hello_parallel_world.c</pre>
   <p><b>Execute:</b></p>
 <pre>./parallel_world</pre>
 </li>
