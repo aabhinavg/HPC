@@ -14,7 +14,7 @@
 
 **Who Use HPC**
 <pr>
-- Company who want to improve their products, reduce production costs and decrease the time it takes to develop new products want to use HCP.
+- Company who want to improve their products, reduce production costs and decrease the time it takes to develop new products want to use HPC.
 - HPC is more recently is being used by researchers in social media, semantics, geology, archeology, materials, urban planning, graphics, genomics,       brain imaging, economics, game design and even music. This list will go on adding as people get knowledge to the possibilities of using HPC, bringing   their own unique understanding of how it can be used in their fields.
   
 
